@@ -1,7 +1,8 @@
+import Navbar from "./Components/Navbar/inde";
+
 function App() {
   return (
-   <h1>Página Principal</h1>
+   <Navbar/>
   );
 }
-
 export default App;
